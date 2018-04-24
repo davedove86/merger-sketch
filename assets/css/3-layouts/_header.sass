@@ -1,20 +1,58 @@
-.main-nav
-  display: flex
-  margin-top: 20px
+header
+  background:
+    image: url(../img/hero-bg.png)
+    size: cover
+    position: center
+  height: 100vh
+  color: #fff
 
+  .main-nav
+    display: flex
+    padding-top: 20px
+    margin: 0
 
-  li
-    list-style: none
+    li
+      list-style: none
 
-  li:first-child
-    margin-right: auto
+    li:first-child
+      margin-right: auto
 
-  a
-    color: #fff
-    display: block
-    border-radius: 4px
-    padding: 10px 50px
-    text-decoration: none
-    font:
-      weight: 900
-    text-transform: uppercase
+    a
+      color: #fff
+      display: block
+      border-radius: 4px
+      padding: 10px 50px
+      text-decoration: none
+      font:
+        weight: 900
+      text-transform: uppercase
+
+  .hero-text-wrap
+    display: flex
+    flex-direction: column
+    align-items: center
+    justify-content: center
+    height: 400px
+    text-align: center
+
+    h1
+      font:
+        size: 50px
+        weight: 300
+      margin: 0
+      padding: 10px
+
+    h5
+      font:
+        size: 20px
+        weight: 300
+      margin: 0
+      padding: 10px
+
+    button
+      background: #F92251
+      border: none
+      border-radius: 24px
+      padding: 17px 30px
+      margin: 20px 0
+      text-transform: uppercase
