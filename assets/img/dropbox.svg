@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>dropbox copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FE9B00" offset="0%"></stop>
+            <stop stop-color="#FF1E00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Merger" transform="translate(-716.000000, -625.000000)">
+            <g id="Clients" transform="translate(-1.000000, 605.000000)">
+                <rect id="Rectangle-82-Copy-2" fill="#404754" opacity="0.337744869" x="0" y="0" width="1024" height="112"></rect>
+                <g id="dropbox-copy" opacity="0.699999988" transform="translate(717.000000, 20.000000)">
+                    <rect id="Path" fill="#5F6675" x="0" y="0" width="72" height="72" rx="4"></rect>
+                    <path d="M35.99977,21.4967875 L45.8804045,13.0000474 L60,22.4988577 L50.2366799,30.5542888 L35.9998247,21.4968223 L21.763044,30.5542414 L12.000184,22.4988103 L26.1197796,13 L35.999954,21.4967401 Z M12,38.6102886 L21.7633201,30.5543836 L35.99977,39.6118848 L26.1195955,48.1090989 L12,38.6102886 Z M35.99977,39.612027 L50.2366799,30.5545258 L60,38.6104308 L45.8804045,48.1092412 L35.99977,39.612027 Z M36.0289836,41.4400704 L45.9381416,49.9121617 L50.1784828,47.0595323 L50.1784828,50.2577195 L36.0289836,59 L21.8794844,50.2577195 L21.8794844,47.0595323 L26.1198256,49.9121617 L36.0289836,41.4400704 Z" id="Fill-1" fill="#B3B9C0"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

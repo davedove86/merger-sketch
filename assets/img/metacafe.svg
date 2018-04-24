@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>metacafe</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Merger" transform="translate(-796.000000, -3299.000000)">
+            <g id="Trust-us" transform="translate(-1.000000, 2989.000000)">
+                <rect id="Rectangle-82-Copy" fill="#404754" opacity="0.337744869" x="0" y="0" width="1024" height="522"></rect>
+                <g id="metacafe" opacity="0.799999952" transform="translate(797.000000, 310.000000)">
+                    <rect id="Rectangle-9" fill="#6B7280" x="0" y="0" width="72" height="72" rx="4"></rect>
+                    <g id="Shape-+-Shape" transform="translate(10.000000, 10.000000)">
+                        <polygon id="Shape" fill="#414458" points="47.1771215 52.6545185 44.2651215 43.6013333 51.8887103 38.0073796 42.4650467 38.0073796 39.5520748 28.9537037 36.6405607 38.0073796 27.2149533 38.0073796 34.839028 43.6013333 31.927514 52.6545185 39.5520748 47.0595833"></polygon>
+                        <path d="M32.7410467,44.3374444 C31.1373084,43.1621204 21.580486,36.1484537 21.580486,36.1484537 L35.3779813,36.1484537 C35.9912897,34.2433981 39.6405234,22.8955093 39.6405234,22.8955093 C39.6405234,22.8955093 43.2931589,34.2433981 43.9059813,36.1484537 L51.2734579,36.1484537 L39.6410093,0 L30.2839252,29.0862037 L0,29.0862037 L30.4350654,51.5086389 C31.4094579,48.4822407 32.4416822,45.2727963 32.7410467,44.3374444 L32.7410467,44.3374444 Z" id="Shape" fill="#B3B9C0"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
