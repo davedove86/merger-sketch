@@ -29,8 +29,53 @@
       max-width: 300px
       padding: 20px
 
-      hr
-        opacity: 0.1
-        border: 2px solid #FFFFFF
-        width: 50px
-        margin: 20px auto
+      h5
+        font:
+          size: 20px
+          weight: 300
+        color: #e6e6e6
+        text-transform: uppercase
+
+// Flex wrap styles - All sections
+
+.flex
+  display: flex
+  flex-wrap: wrap
+  justify-content: center
+  text-align: center
+
+  .flex-item
+    max-width: 500px
+    padding: 50px 30px
+
+    img
+      width: 100%
+      height: auto
+
+    h3
+      font:
+        size: 20px
+        weight: 300
+      color: #e6e6e6
+
+    h3, p
+      text-align: left
+
+    @media only screen and (max-width: 1000px)
+      h3, p, hr
+        text-align: center
+
+  .button-wrap
+    text-align: left
+
+    .learn-btn
+      background: #333
+      border: none
+      border-radius: 22px
+      color: #fff
+      padding: 8px 30px
+      margin-right: auto
+
+  @media only screen and (max-width: 1000px)
+    .button-wrap
+      text-align: center
